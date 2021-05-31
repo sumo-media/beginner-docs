@@ -1,3 +1,4 @@
+
 # Git Guide
 
 ## Guides
@@ -27,6 +28,22 @@ git pull origin dev
 ```
 git checkout -b feature/new-feature
 ```
+
+###  Finishing a branch/ task
+Once you are done for the branch or task. You have to push the codes to the remote repository (Github/ Bitbucket) so the project maintainer can review and merge your branch to the `dev` branch.
+1. Make sure you have commited all your changes. First add your changes to staging.
+```
+git add .
+```
+2. Commit your changes. As much as possible make your commit message clear and describes the changes in a brief way.
+```
+git commit -m "<your commit message/ description here>"
+```
+3. Push your branch to the remote repository
+```
+git push origin <branch-prefix>/<branch-name>
+```
+4. Lastly create a pull request.
 
 ## Reference
 
