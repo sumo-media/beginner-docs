@@ -32,9 +32,13 @@ git checkout -b feature/new-feature
 
 ### Change Branches
 Syntax:
-`git checkout <branch-prefix>/<branch-name>`
+```
+git checkout <branch-prefix>/<branch-name>
+```
 Example:
-`git checkout feature/pricing`
+```
+git checkout feature/pricing
+```
 
 ### Create new branch
 Syntax:
