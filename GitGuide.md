@@ -38,18 +38,30 @@ Example:
 
 ### Create new branch
 Syntax:
-`git checkout -b <branch-prefix>/<branch-name>`
+```
+git checkout -b <branch-prefix>/<branch-name>
+```
 Example:
-`git checkout -b feature/fix-footer`
+```
+git checkout -b feature/fix-footer
+```
 
 ### Pull updates
 Syntax:
-`git pull origin <branch-to-pull>`
+```
+git pull origin <branch-to-pull>
+```
 Example
-`git pull origin dev`
+```
+git pull origin dev
+```
 
 ### Delete branch
 Syntax:
-`git branch -D <branch-name>`
+```
+git branch -D <branch-name>
+```
 Example:
-`git branch -D feature/change-font`
+```
+git branch -D feature/change-font
+```
