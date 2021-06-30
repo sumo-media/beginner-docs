@@ -22,8 +22,8 @@ Make sure you have installed the following software with the correct version.
 
 ## Email
 You will be given 2 email addresses and passwords.
-<br/>
-Example:
+<br/><br/>
+Example: <br/>
 tech1@sumomedia.co <br/>
 tech1.sumomedia@gmail.com <br/>
 
