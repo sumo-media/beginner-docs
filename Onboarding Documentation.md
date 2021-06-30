@@ -22,9 +22,10 @@ Make sure you have installed the following software with the correct version.
 
 ## Email
 You will be given 2 email addresses and passwords.
-Example:
-tech1@sumomedia.co
-tech1.sumomedia@gmail.com
+<br/><br/>
+Example: <br/>
+tech1@sumomedia.co <br/>
+tech1.sumomedia@gmail.com <br/>
 
 You can open your sumomedia.co email address at https://sumomedia.co/webmail. All emails sent to your sumomedia account will also be mirrored in your GMail account. So most of the time you will only need to open your GMail account.
 
