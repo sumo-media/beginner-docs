@@ -75,8 +75,8 @@ Please visit these documentations for references on the tech stack.
 Note: Some references has multiple documentations, mostly another documentation for Nuxt. That is because on top of the official documentations, Nuxt adds in some shortcuts and helper functions that is unique to Nuxt.
 
 If you are more of a visual learner, you can also visit and watch these YouTube channels:
-[Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) - has complete tutorials that span several hours and covering a lot of the topic.
-[Andre Madarang](https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ)
-[LevelUpTuts](https://www.youtube.com/c/LevelUpTuts/featured)
+- [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) - has complete tutorials that span several hours and covering a lot of the topic.
+- [Andre Madarang](https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ)
+- [LevelUpTuts](https://www.youtube.com/c/LevelUpTuts/featured)
 
 **Please still read the documentation as they are more updated and explains a lot more.**
