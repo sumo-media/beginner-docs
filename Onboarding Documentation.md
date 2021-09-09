@@ -21,13 +21,12 @@ Make sure you have installed the following software with the correct version.
 **Note**: Instead of manually installing PHP and MySQL, you can also install [XAMPP](https://www.apachefriends.org/download.html) which already comes with both. Just make sure that after installing XAMPP, check your PHP and MySQL versions if they match the requirements above.
 
 ## Email
-You will be given 2 email addresses and passwords.
+You will be given an email account.
 <br/><br/>
 Example: <br/>
 tech1@sumomedia.co <br/>
-tech1.sumomedia@gmail.com <br/>
 
-You can open your sumomedia.co email address at https://sumomedia.co/webmail. All emails sent to your sumomedia account will also be mirrored in your GMail account. So most of the time you will only need to open your GMail account.
+You can open your sumomedia.co email address at https://sumomedia.co/webmail.
 
 ## Setting up Git
 Once you have opened your email address, you will receive an invitation to the bitbucket workspace. Bitbucket is where we store the remote repository, very much similar to GitHub.
