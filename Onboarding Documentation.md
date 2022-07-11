@@ -46,7 +46,7 @@ Currently, we are working on two types of products. Websites and Web Apps. Each 
 The websites are using a native PHP for backend and native HTML, CSS and JS for the frontend.
 
 ### Setting up
-Please refer to [Darryl's Knowledgebase](#) for setting up the websites. The whole project is usually under one repository
+Please refer to the [Knowledgebase](#) for setting up the websites. The whole project is usually under one repository
 
 ## Web apps
 The Web Apps are using Laravel(PHP) for the backend, and Nuxt(JS), which is a framework for Vue, and Vuetify. The projects are usually separated as backend and frontend repositories.
